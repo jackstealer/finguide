@@ -31,7 +31,7 @@ git --version       # Should show 2+
 **Windows:**
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/finguide.git
+git clone https://github.com/jackstealer/finguide.git
 cd finguide
 
 # Run the setup script
@@ -47,7 +47,7 @@ This will:
 **Linux/Mac:**
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/finguide.git
+git clone https://github.com/jackstealer/finguide.git
 cd finguide
 
 # Make the script executable

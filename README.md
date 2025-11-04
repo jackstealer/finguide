@@ -170,9 +170,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **Project Link**: [https://github.com/yourusername/finguide](https://github.com/yourusername/finguide)
-- **Issues**: [Report a bug or request a feature](https://github.com/yourusername/finguide/issues)
+- **GitHub**: [@jackstealer](https://github.com/jackstealer)
+- **Project Link**: [https://github.com/jackstealer/finguide](https://github.com/jackstealer/finguide)
+- **Issues**: [Report a bug or request a feature](https://github.com/jackstealer/finguide/issues)
 
 ---
 
@@ -192,8 +192,8 @@ If you found this project helpful, please consider:
 
 Made by passionate developers who believe in financial literacy for everyone.
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/finguide?style=social)](https://github.com/yourusername/finguide/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/finguide?style=social)](https://github.com/yourusername/finguide/network/members)
-[![GitHub watchers](https://img.shields.io/github/watchers/yourusername/finguide?style=social)](https://github.com/yourusername/finguide/watchers)
+[![GitHub stars](https://img.shields.io/github/stars/jackstealer/finguide?style=social)](https://github.com/jackstealer/finguide/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/jackstealer/finguide?style=social)](https://github.com/jackstealer/finguide/network/members)
+[![GitHub watchers](https://img.shields.io/github/watchers/jackstealer/finguide?style=social)](https://github.com/jackstealer/finguide/watchers)
 
 </div>
