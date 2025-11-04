@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  finguide:
+    build: .
+    ports:
+      - "5000:5000"
+    environment:
+      - FLASK_ENV=production
+      - PYTHONUNBUFFERED=1
+    restart: unless-stopped
+    volumes:
+      - ./backend:/app/backend
+    command: gunicorn --chdir backend --bind 0.0.0.0:5000 --workers 4 app:app
